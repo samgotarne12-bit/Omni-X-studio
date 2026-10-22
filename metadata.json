@@ -1,0 +1,6 @@
+{
+  "name": "Omni-X AI Studio",
+  "description": "High-performance intelligent AI chat workspace with multi-model support, prompt management, and developer tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
